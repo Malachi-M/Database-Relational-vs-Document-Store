@@ -5,20 +5,20 @@ This project is a repository for write-ups on the comparison of non-relational d
 
 The topics we will be reviewing include:
 
-#### Database Planning and Database Architecture
+###### Database Planning and Database Architecture
 
-#### The Entity Relationship Model
+###### The Entity Relationship Model
 
-#### The Relational Model
+###### The Relational Model
 
-#### Relational Database Management Systems and SQL
+###### Relational Database Management Systems and SQL
 
-#### Normalization
+###### Normalization
 
-#### The Object-Oriented Model
+###### The Object-Oriented Model
 
-#### The Enhanced Entity-Relationship Model and the Object-Relational Model
+###### The Enhanced Entity-Relationship Model and the Object-Relational Model
 
-#### Transaction Management
+###### Transaction Management
 
-#### Relational Query Optimization
+###### Relational Query Optimization
